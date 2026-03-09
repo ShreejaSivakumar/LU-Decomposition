@@ -67,7 +67,7 @@ print(X)
 ```
 
 ## Output:
-![lu decomposition]()
+
  
 ![Screenshot_9-3-2026_19036_lms2 ai saveetha in](https://github.com/user-attachments/assets/c3a0aa4b-50a8-42eb-a9a5-28fd28cb3e3a)
 
